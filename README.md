@@ -108,11 +108,11 @@ A personal developer portfolio showcasing my education, projects, technical skil
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jigneshsathavara/" target="_blank">
+<a href="https://www.linkedin.com/in/jigneshsathavara/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="https://https://jignesh-i7lv.onrender.com/" target="_blank">
+<a href="https://jignesh-i7lv.onrender.com/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome" />
 </a>
 
